@@ -1,7 +1,7 @@
 # HospitalERp
 ![Screenshot (135)](https://github.com/chinmay0703/HospitalERp/assets/121102640/7fa0cd9f-aac2-43b6-9d88-661c4f48b82a)
 ![Screenshot (136)](https://github.com/chinmay0703/HospitalERp/assets/121102640/1c3f5b60-110d-43a4-9c1b-4aea8aecd0d9)
-![Screenshot (137)](https://github.com/chinmay0703/HospitalERp/assets/121102640/76b3a46b-2484-4f8e-ba8e-2d02073ce1c6)
+
 ![Screenshot (138)](https://github.com/chinmay0703/HospitalERp/assets/121102640/10bb3e58-2f09-4160-885d-b461b65ae125)
 ![Screenshot (139)](https://github.com/chinmay0703/HospitalERp/assets/121102640/9540062d-5ea1-4df6-8b58-878e85ff7fa9)
 ![Screenshot (140)](https://github.com/chinmay0703/HospitalERp/assets/121102640/787a4a77-72fa-44f8-935f-70a4fae3261a)
