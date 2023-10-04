@@ -1,4 +1,5 @@
 # HospitalERp
+# Photo Gallery
 ![Screenshot (135)](https://github.com/chinmay0703/HospitalERp/assets/121102640/7fa0cd9f-aac2-43b6-9d88-661c4f48b82a)
 ![Screenshot (136)](https://github.com/chinmay0703/HospitalERp/assets/121102640/1c3f5b60-110d-43a4-9c1b-4aea8aecd0d9)
 
